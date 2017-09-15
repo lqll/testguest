@@ -1,0 +1,96 @@
+#member{
+    width:auto;
+    height: 600px;
+    border:solid 2px #cccccc;
+    font-size: 12px;
+}
+
+#member h2{
+    text-align: center;
+    text-indent:0;
+    height: 30px;
+    line-height: 30px;
+}
+
+#member_sidebar{
+    border: 1px dashed #999;
+    width: 300px;
+    height: 500px;
+    margin: 15px;
+    float: left;
+}
+#member_sidebar dl{
+    width: 250px;
+    margin: 15px auto;
+}
+
+#member_sidebar dl dt{
+    height: 40px;
+    line-height: 40px;
+    background: #999;
+    font-weight:bold;
+    text-align: center;
+    color: #ffffff;
+}
+
+#member_sidebar dl dd{
+    height: 40px;
+    line-height: 40px;
+    background: #eeeeee;
+    font-weight:bold;
+    text-align: center;
+}
+
+#member_sidebar dl dd a{
+    display: block;
+    color: #333333;
+    text-decoration: none;
+}
+
+#member_sidebar dl dd a:hover{
+    background-color: #cccccc;
+}
+
+#member_main{
+    border: 1px dashed #999;
+    width: 590px;
+    height: 500px;
+    margin: 15px;
+    float: right;
+}
+
+#member_main dl{
+    width: 500px;
+    margin: 15px auto;
+    font-size: 14px;
+}
+
+#member_main dl dd{
+    padding:10px 0;
+    border-bottom: 1px dashed #999;
+
+}
+
+#member_main table{
+    width: 90%;
+    margin: 10px auto;
+    text-align: center;
+    background: #cccccc;
+}
+
+#member_main table th,#member_main table td{
+    height: 25px;
+    line-height: 25px;
+    background: #ffffff;
+}
+
+#member_main table td a{
+    text-decoration: none;
+    color: #333;
+}
+
+
+#member_main table td a:hover{
+    text-decoration: underline;
+}
+

@@ -1,0 +1,17 @@
+#active{
+    width:auto;
+    height: 600px;
+    border:solid 2px #cccccc;
+    font-size: 12px;
+}
+
+#register h2{
+    text-indent: 0;
+    text-align: center;
+    margin: 0 0 10px 0;
+}
+
+#active p{
+    text-align: center;
+    padding: 5px;
+}
